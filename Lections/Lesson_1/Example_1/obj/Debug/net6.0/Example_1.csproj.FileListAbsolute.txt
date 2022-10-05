@@ -1,0 +1,15 @@
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/bin/Debug/net6.0/Example_1
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/bin/Debug/net6.0/Example_1.deps.json
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/bin/Debug/net6.0/Example_1.runtimeconfig.json
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/bin/Debug/net6.0/Example_1.dll
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/bin/Debug/net6.0/Example_1.pdb
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/obj/Debug/net6.0/Example_1.csproj.AssemblyReference.cache
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/obj/Debug/net6.0/Example_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/obj/Debug/net6.0/Example_1.AssemblyInfoInputs.cache
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/obj/Debug/net6.0/Example_1.AssemblyInfo.cs
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/obj/Debug/net6.0/Example_1.csproj.CoreCompileInputs.cache
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/obj/Debug/net6.0/Example_1.dll
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/obj/Debug/net6.0/refint/Example_1.dll
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/obj/Debug/net6.0/Example_1.pdb
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/obj/Debug/net6.0/Example_1.genruntimeconfig.cache
+/Users/veronika/Course_C_sharp/Lections/Lesson_1/Example_1/obj/Debug/net6.0/ref/Example_1.dll
