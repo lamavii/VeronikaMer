@@ -18,6 +18,5 @@ DayNumber(number);
 
 
 
-//if(DayNumber(number)==6 ||DayNumber(number)==7 ) Console.WriteLine("Выходной");
-//else Console.WriteLine("Будний");
+
 
